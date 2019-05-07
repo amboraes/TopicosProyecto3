@@ -85,5 +85,10 @@ Se requiere usar Databricks para la ejecución de estos algoritmos, se deben seg
 ---
 * Crear Notebook
 ![NoteBook](imagenes/imagen13.png)
+(Cada Notebook debe estar enlazado a el cluster previamente creado)
 ![NoteBook](imagenes/imagen10.png)
-
+---
+* Compilar el código
+![compilar](imagenes/imagen11.png)
+(la ejecucion del código se **debe** hacer en el siguiente orden)
+![compilar](imagenes/imagen12.png)
