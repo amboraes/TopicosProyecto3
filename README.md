@@ -29,6 +29,8 @@ El algoritmo de contador de palabras por medio de índice inverso funciona a par
 
 En Databricks el input del usuario no se hace por consola sino por un cuadro de texto ubicado en la parte superior del Notebook
 
+![Input](imagenes/imagen1.png)
+
 El output será el siguiente para la palabra **"gun"**:
 
 ````
@@ -67,6 +69,20 @@ id noticias más parecias: ['76862', '18378', '78128', '75386', '75323']
 ````
 ## Modo de compilación
 
-Se requiere usar Databricks para la ejecución de estos algoritmos, cada paso está dividido por carpetas y por tanto así debe de correrse en el Notebook. 
+Se requiere usar Databricks para la ejecución de estos algoritmos, se deben seguir los siguientes pasos:
+* Creacion de cluster
+![Cluster](imagenes/imagen2.png)
+---
+* Instalacion de libreria
+![Instalacion](imagenes/imagen3.png)
+![Instalacion](imagenes/imagen4.png)
+![Instalacion](imagenes/imagen5.png)
+---
+* Cargar los datos
+![cargar](imagenes/imagen7.png)
+![cargar](imagenes/imagen8.png)
+![cargar](imagenes/imagen9.png)
+---
+* Crear Notebook
+![NoteBook](imagenes/imagen10.png)
 
-Cada archivo .py se copia y se pega en un cuadro de comando en el Notebook (para mejorar su eficiencia y no correr el código varias veces innecesariamente)  
