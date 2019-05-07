@@ -63,9 +63,8 @@ Despúes la segunda parte del algoritmo (clustering2.py) revisa las 5 palabras m
 El output se ve así:
 
 ````
-id ingresado: 17986 
-titulo del id ingresado: How News on a Times-Affiliated Site Drew Praise From Glenn Beck - The New York Times
-id noticias más parecias: ['76862', '18378', '78128', '75386', '75323']
+id ingresado, titulo del id, id noticias mas parecidas
+17986, How News on a Times-Affiliated Site Drew Praise From Glenn Beck - The New York Times, ['76862', '18378', '78128', '75386', '75323']
 ````
 ## Modo de compilación
 
