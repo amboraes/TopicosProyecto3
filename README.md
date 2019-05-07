@@ -79,10 +79,11 @@ Se requiere usar Databricks para la ejecución de estos algoritmos, se deben seg
 ![Instalacion](imagenes/imagen5.png)
 ---
 * Cargar los datos
-![cargar](imagenes/imagen7.png)
+![cargar](imagenes/imagen6.png)
 ![cargar](imagenes/imagen8.png)
 ![cargar](imagenes/imagen9.png)
 ---
 * Crear Notebook
+![NoteBook](imagenes/imagen13.png)
 ![NoteBook](imagenes/imagen10.png)
 
