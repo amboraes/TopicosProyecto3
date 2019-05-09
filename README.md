@@ -2,7 +2,7 @@
 
 ## Creado por: Maria Clara Sanchez V, Tomas Alvarez G y Juan Esteban Fonseca P.
 
-  Para este proyecto se realizaron diferentes algoritmos, uno de limpieza de datos, uno de contador de palabras por medio de índice inverso y uno de análisis de semejanza de textos. Todos los algoritmos anteriormente mencionados se basan en la lectura de diferentes Datasets (.csv).
+  Para este proyecto se realizaron diferentes algoritmos, uno de limpieza de datos, uno de contador de palabras y uno de análisis de semejanza de textos. Todos los algoritmos anteriormente mencionados se basan en la lectura de diferentes Datasets (.csv).
 
 ### Limpieza
   
@@ -25,7 +25,7 @@ content: ['washington', 'congressional', 'republicans', 'new', 'fear', 'comes', 
 
 ### Contador de palabras
 
-El algoritmo de contador de palabras por medio de índice inverso funciona a partir de una entrada de usuario de una palabra en específico, el algoritmo luego, a partir de esta palabra, usará el arreglo del contenido y título ya limpios para así contar el número de iteraciones que tiene de esta. El output será  de máximo 10 noticias, frecuencia de la palabra de la noticia, identificación de la noticia, título de la noticia.
+El algoritmo de contador de palabras funciona a partir de una entrada de usuario de una palabra en específico, el algoritmo luego, a partir de esta palabra, usará el arreglo del contenido y título ya limpios para así contar el número de iteraciones que tiene de esta. El output será  de máximo 10 noticias, frecuencia de la palabra de la noticia, identificación de la noticia, título de la noticia.
 
 En Databricks el input del usuario no se hace por consola sino por un cuadro de texto ubicado en la parte superior del Notebook
 
