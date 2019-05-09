@@ -90,4 +90,4 @@ Se requiere usar Databricks para la ejecución de estos algoritmos, se deben seg
 * Compilar el código
 ![compilar](imagenes/imagen11.png)
 (la ejecucion del código se **debe** hacer en el siguiente orden)
-![compilar](imagenes/imagen12.png)
+![compilar](imagenes/imagen14.png)
